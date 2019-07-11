@@ -54,6 +54,8 @@ group :development do
   gem 'devise'
 
   gem 'jquery-rails'
+
+  # gem 'devise-bootstrapped', '~> 0.1.1'
 end
 
 group :test do
